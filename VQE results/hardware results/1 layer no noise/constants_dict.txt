@@ -1,0 +1,13 @@
+data_set: [(<networkx.classes.graph.Graph object at 0x14c43c054680>, [2], [-1], ['1001']), (<networkx.classes.graph.Graph object at 0x14c43be3e090>, [4], [-3], ['10101001']), (<networkx.classes.graph.Graph object at 0x14c43c067aa0>, [4], [-4], ['1001001001']), (<networkx.classes.graph.Graph object at 0x14c43c0676e0>, [5], [-4], ['10101001010']), (<networkx.classes.graph.Graph object at 0x14c43c0c2c60>, [4], [-4], ['010010010010']), (<networkx.classes.graph.Graph object at 0x14c43c0c2de0>, [8, 6], [-6], ['0101011010111']), (<networkx.classes.graph.Graph object at 0x14c43be08440>, [8], [-7], ['10101001010111']), (<networkx.classes.graph.Graph object at 0x14c43c06d8e0>, [8], [-7], ['101010010101110']), (<networkx.classes.graph.Graph object at 0x14c43c046930>, [6], [-6], ['1100100100010010']), (<networkx.classes.graph.Graph object at 0x14c43bdfbf50>, [6], [-6], ['10100001001001010']), (<networkx.classes.graph.Graph object at 0x14c43c0c29c0>, [8, 9], [-8], ['110001001010010001']), (<networkx.classes.graph.Graph object at 0x14c43bc8d820>, [8, 9], [-8], ['1110010010100100010']), (<networkx.classes.graph.Graph object at 0x14c43bc8f770>, [8, 9, 11], [-8], ['11100001001010010001']), (<networkx.classes.graph.Graph object at 0x14c43bc8f800>, [10], [-10], ['011001010010100100111']), (<networkx.classes.graph.Graph object at 0x14c43bc8f5f0>, [10], [-11], ['1001001010010100100111']), (<networkx.classes.graph.Graph object at 0x14c43bc8f650>, [10], [-10], ['00111100100101001010010']), (<networkx.classes.graph.Graph object at 0x14c43bc8f5c0>, [10], [-11], ['100010010100101001001111']), (<networkx.classes.graph.Graph object at 0x14c43bc8f560>, [13], [-13], ['0101010100101010010011111']), (<networkx.classes.graph.Graph object at 0x14c43bc8f590>, [14], [-14], ['11110011001010010100110011']), (<networkx.classes.graph.Graph object at 0x14c43bc8f500>, [13], [-13], ['010101010010101001000011111']), (<networkx.classes.graph.Graph object at 0x14c43bc8f530>, [13], [-13], ['0011100100101010010100100111']), (<networkx.classes.graph.Graph object at 0x14c43bc8d2e0>, [15], [-15], ['01010100110010100100111100111']), (<networkx.classes.graph.Graph object at 0x14c43bc8d1f0>, [15, 14, 16, 13, 17], [-15], ['111001010100110010100100111100'])]
+simulate: False
+noisy_simulation: False
+maxiter: 1
+average_iter: 10
+num_layers: 1
+lamda: 1.1
+default_shots: 100000
+backend: <IBMBackend('ibm_torino')>
+real_amp: False
+donation_params: False
+load_params: True
+save_file_at: /cephyr/users/hannlinn/Vera/protein-design-with-qaoa/results/ibm_torino_HW_1_100000shots_noisy_simulation_False_1752008394.9934044/

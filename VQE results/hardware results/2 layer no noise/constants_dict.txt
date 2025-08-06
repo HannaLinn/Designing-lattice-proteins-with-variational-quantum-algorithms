@@ -1,0 +1,13 @@
+data_set: [(<networkx.classes.graph.Graph object at 0x14e8bb4996d0>, [4], [-4], ['010010010010']), (<networkx.classes.graph.Graph object at 0x14e8bb499400>, [8, 6], [-6], ['0101011010111']), (<networkx.classes.graph.Graph object at 0x14e8bb499430>, [8], [-7], ['10101001010111']), (<networkx.classes.graph.Graph object at 0x14e8bb4993a0>, [8], [-7], ['101010010101110']), (<networkx.classes.graph.Graph object at 0x14e8bb4993d0>, [6], [-6], ['1100100100010010']), (<networkx.classes.graph.Graph object at 0x14e8bb499340>, [6], [-6], ['10100001001001010']), (<networkx.classes.graph.Graph object at 0x14e8bb499370>, [8, 9], [-8], ['110001001010010001']), (<networkx.classes.graph.Graph object at 0x14e8bb4992e0>, [8, 9], [-8], ['1110010010100100010']), (<networkx.classes.graph.Graph object at 0x14e8bb499310>, [8, 9, 11], [-8], ['11100001001010010001']), (<networkx.classes.graph.Graph object at 0x14e8bb3c63f0>, [10], [-10], ['011001010010100100111']), (<networkx.classes.graph.Graph object at 0x14e8bb499610>, [10], [-11], ['1001001010010100100111']), (<networkx.classes.graph.Graph object at 0x14e8bb553500>, [10], [-10], ['00111100100101001010010']), (<networkx.classes.graph.Graph object at 0x14e8bb553170>, [10], [-11], ['100010010100101001001111']), (<networkx.classes.graph.Graph object at 0x14e8bb553050>, [13], [-13], ['0101010100101010010011111']), (<networkx.classes.graph.Graph object at 0x14e8bb5533b0>, [14], [-14], ['11110011001010010100110011']), (<networkx.classes.graph.Graph object at 0x14e8bb553290>, [13], [-13], ['010101010010101001000011111']), (<networkx.classes.graph.Graph object at 0x14e8bb5534a0>, [13], [-13], ['0011100100101010010100100111']), (<networkx.classes.graph.Graph object at 0x14e8bb552ea0>, [15], [-15], ['01010100110010100100111100111']), (<networkx.classes.graph.Graph object at 0x14e8bb553560>, [15, 14, 16, 13, 17], [-15], ['111001010100110010100100111100'])]
+simulate: False
+noisy_simulation: False
+maxiter: 1
+average_iter: 10
+num_layers: 2
+lamda: 1.1
+default_shots: 100000
+backend: <IBMBackend('ibm_torino')>
+real_amp: False
+donation_params: False
+load_params: True
+save_file_at: /cephyr/users/hannlinn/Vera/protein-design-with-qaoa/results/ibm_torino_HW_2_100000shots_noisy_simulation_False_1752525980.858569/
